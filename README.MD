@@ -21,7 +21,8 @@
 
 ## Up to 4GB files Supported 
 
-Var Link - <a herf="https://graph.org/VARIABLES-THAT-USED-TO-DEPLOY-FILE-TO-LINK-BOT-IN-RENDER-12-16">Var wala Link</a>
+<a href="https://graph.org/VARIABLES-THAT-USED-TO-DEPLOY-FILE-TO-LINK-BOT-IN-RENDER-12-16"><strong>VarLink»</strong></a>
+
 
 
 <p align='center'>
