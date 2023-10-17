@@ -19,9 +19,9 @@
 
 <b><a href="https://www.github.com/KWICBOTS" title="Follow">Follow Me For Updates</a></b>
 
-## Up to 4GB files Supported ♥️
+## Up to 4GB files Supported 
 
-## Var Link - <a herf="https://graph.org/VARIABLES-THAT-USED-TO-DEPLOY-FILE-TO-LINK-BOT-IN-RENDER-12-16">Var wala Link</a>
+Var Link - <a herf="https://graph.org/VARIABLES-THAT-USED-TO-DEPLOY-FILE-TO-LINK-BOT-IN-RENDER-12-16">Var wala Link</a>
 
 
 <p align='center'>
