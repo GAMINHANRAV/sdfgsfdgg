@@ -21,6 +21,9 @@
 
 ## Up to 4GB files Supported ♥️
 
+## Var Link - <a herf="https://graph.org/VARIABLES-THAT-USED-TO-DEPLOY-FILE-TO-LINK-BOT-IN-RENDER-12-16">
+
+
 <p align='center'>
     This bot will give you stream links and fast download links for Telegram files without the need of waiting till the download completes
 </p>
